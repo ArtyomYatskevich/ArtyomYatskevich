@@ -22,5 +22,5 @@ I'm Artsiom Yatskevich – a software engineer with 8+ years of experience build
 
 🌐 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/artyom-yatskevich/)
-- 📌 [TradeReview](https://tradereview.app/)
+- 📌 [TradeReview](https://tradersetup.app/)
 
