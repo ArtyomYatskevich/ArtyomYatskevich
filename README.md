@@ -2,7 +2,7 @@
 
 I'm Artsiom Yatskevich – a software engineer with 8+ years of experience building web-based solutions and improving the software development lifecycle.
 
-🚀 Currently, I’m working on [TraderSetup](https://tradersetup.app/)
+🚀 Currently, I’m working on [TradeReview](https://tradereview.app/)
  – a platform designed to help traders analyze and improve their decision-making.
 
 👨‍💻 About Me
@@ -22,5 +22,5 @@ I'm Artsiom Yatskevich – a software engineer with 8+ years of experience build
 
 🌐 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/artyom-yatskevich/)
-- 📌 [TraderSetup](https://tradersetup.app/)
+- 📌 [TradeReview](https://tradereview.app/)
 
